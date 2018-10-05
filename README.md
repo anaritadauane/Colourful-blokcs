@@ -1,4 +1,4 @@
-# Colourful-blokcs
+# Find Keptniz
 The main goal is to create  a tetris game.
 
 Group name: Las Hermanas 
