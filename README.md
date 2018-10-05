@@ -1,5 +1,5 @@
 # Find Keptniz
-The main goal is to create  a tetris game.
+The main goal is to create  a game called find Keptniz.
 
 Group name: Las Hermanas 
 
@@ -7,7 +7,7 @@ Group members: Ana Rita Dauane and Tafadzwa Matunhike
 
 Group mentor: Mos Tsistsi
 
-Project title: Tetris
+Project title: Find Keptniz
 
 Project page: https://github.com/anaritadauane/Colourful-blokcs
 
