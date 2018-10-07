@@ -1,4 +1,4 @@
-# Find Keptniz
+# Find Ketnipz
 The main goal is to create  a game called find Keptniz.
 
 Group name: Las Hermanas 
